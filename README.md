@@ -9,6 +9,10 @@
 - review changes
 
 
+### How to run the site:
+In the terminal (make sure you're in the correct directory), run npm install to make sure you have all the dependencies
+
+To run the app, type npm start in your terminal. Open http://localhost:3000 to view it in the browser.
 
 ## Acknowledgement
 Referenced to [GWC_UVA](https://www.gwcuva.com/hack#About)
